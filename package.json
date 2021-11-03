@@ -1,0 +1,22 @@
+{
+  "name": "conclusion",
+  "version": "2.0.0",
+  "description": "Conclusion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ."
+  },
+  "keywords": [
+    "conclusion",
+    "addition",
+    "google"
+  ],
+  "author": "Mark.exe",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "mathjs": "^9.5.1"
+  },
+  "devDependencies": {}
+}
